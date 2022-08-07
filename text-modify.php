@@ -1,7 +1,7 @@
 <?php
 
 /*
-  Plugin Name: Our Test Plugin
+  Plugin Name: Text Modification Plugin
   Description: A truly amazing plugin.
   Version: 1.0
   Author: Pratik
